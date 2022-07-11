@@ -1,0 +1,16 @@
+C:\Users\Beebo\Desktop\lab4\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Beebo\Desktop\lab4\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Beebo\Desktop\lab4\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\App.g.cs
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Beebo\Desktop\lab4\ChatClient\obj\Debug\ChatClient.pdb

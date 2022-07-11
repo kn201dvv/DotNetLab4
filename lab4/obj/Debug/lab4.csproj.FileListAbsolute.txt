@@ -1,0 +1,7 @@
+C:\Users\Beebo\Desktop\lab4\lab4\bin\Debug\lab4.dll.config
+C:\Users\Beebo\Desktop\lab4\lab4\bin\Debug\lab4.dll
+C:\Users\Beebo\Desktop\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Beebo\Desktop\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\Beebo\Desktop\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Beebo\Desktop\lab4\lab4\obj\Debug\lab4.dll
+C:\Users\Beebo\Desktop\lab4\lab4\obj\Debug\lab4.pdb

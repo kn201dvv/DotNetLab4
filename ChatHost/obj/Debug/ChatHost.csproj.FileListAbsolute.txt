@@ -1,0 +1,12 @@
+C:\Users\Beebo\Desktop\lab4\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\Beebo\Desktop\lab4\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\Beebo\Desktop\lab4\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\Beebo\Desktop\lab4\ChatHost\bin\Debug\lab4.dll
+C:\Users\Beebo\Desktop\lab4\ChatHost\bin\Debug\lab4.pdb
+C:\Users\Beebo\Desktop\lab4\ChatHost\bin\Debug\lab4.dll.config
+C:\Users\Beebo\Desktop\lab4\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+C:\Users\Beebo\Desktop\lab4\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beebo\Desktop\lab4\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\Beebo\Desktop\lab4\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+C:\Users\Beebo\Desktop\lab4\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\Beebo\Desktop\lab4\ChatHost\obj\Debug\ChatHost.pdb
